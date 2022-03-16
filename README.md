@@ -1,5 +1,5 @@
 # Pangolin Smart Contracts
-This repo contains all of the smart contracts used to run [Paniniswap](paniniswap.com).
+This repo contains all of the smart contracts used to run Paniniswap.
 
 ## Deployed Contracts
 Factory address: `0xefa94DE7a4656D787667C749f7E1223D71E9FD88`
